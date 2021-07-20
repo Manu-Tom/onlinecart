@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+// import { Button } from "bootstrap";
+import ClassSchedule from "./Components/ClassSchedule";
+import Header from "./Components/Header";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Cart from "./Components/Cart";
+
+import { BrowserRouter as Router, Link, Switch, Route } from "react-router-dom";
+
+class App extends Component {
+  // constructor() {
+  //   super();
+  // }
+
+  render() {
+    return (
+      <div className="container-fluid">
+        <Router>
+       
+          <Switch>
+            <Route exact path="/">
+              <ClassSchedule />
+            </Route>
+
+            <Route exact path="/classschedule">
+              <ClassSchedule />
+            </Route>
+
+            <Route exact path="/cart">
+              <Cart />
+            </Route>
+          </Switch>
+        </Router>
+      </div>
+    );
+  }
 }
-
 export default App;
