@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/onlinecart/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/onlinecart/static/js/main.c0fd343e.chunk.js",
-    "main.js.map": "/onlinecart/static/js/main.c0fd343e.chunk.js.map",
+    "main.js": "/onlinecart/static/js/main.5ba47765.chunk.js",
+    "main.js.map": "/onlinecart/static/js/main.5ba47765.chunk.js.map",
     "runtime-main.js": "/onlinecart/static/js/runtime-main.f9ac972f.js",
     "runtime-main.js.map": "/onlinecart/static/js/runtime-main.f9ac972f.js.map",
     "static/css/2.4be38407.chunk.css": "/onlinecart/static/css/2.4be38407.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.97b0c9ef.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.c0fd343e.chunk.js"
+    "static/js/main.5ba47765.chunk.js"
   ]
 }
