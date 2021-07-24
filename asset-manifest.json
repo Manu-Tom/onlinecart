@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/onlinecart/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/onlinecart/static/js/main.99777af3.chunk.js",
-    "main.js.map": "/onlinecart/static/js/main.99777af3.chunk.js.map",
+    "main.js": "/onlinecart/static/js/main.5fef5bec.chunk.js",
+    "main.js.map": "/onlinecart/static/js/main.5fef5bec.chunk.js.map",
     "runtime-main.js": "/onlinecart/static/js/runtime-main.f9ac972f.js",
     "runtime-main.js.map": "/onlinecart/static/js/runtime-main.f9ac972f.js.map",
     "static/css/2.4be38407.chunk.css": "/onlinecart/static/css/2.4be38407.chunk.css",
-    "static/js/2.777f133f.chunk.js": "/onlinecart/static/js/2.777f133f.chunk.js",
-    "static/js/2.777f133f.chunk.js.map": "/onlinecart/static/js/2.777f133f.chunk.js.map",
+    "static/js/2.97b0c9ef.chunk.js": "/onlinecart/static/js/2.97b0c9ef.chunk.js",
+    "static/js/2.97b0c9ef.chunk.js.map": "/onlinecart/static/js/2.97b0c9ef.chunk.js.map",
     "static/js/3.f67cbbfb.chunk.js": "/onlinecart/static/js/3.f67cbbfb.chunk.js",
     "static/js/3.f67cbbfb.chunk.js.map": "/onlinecart/static/js/3.f67cbbfb.chunk.js.map",
     "index.html": "/onlinecart/index.html",
     "static/css/2.4be38407.chunk.css.map": "/onlinecart/static/css/2.4be38407.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/onlinecart/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.777f133f.chunk.js.LICENSE.txt": "/onlinecart/static/js/2.777f133f.chunk.js.LICENSE.txt"
+    "static/js/2.97b0c9ef.chunk.js.LICENSE.txt": "/onlinecart/static/js/2.97b0c9ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f9ac972f.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.777f133f.chunk.js",
+    "static/js/2.97b0c9ef.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.99777af3.chunk.js"
+    "static/js/main.5fef5bec.chunk.js"
   ]
 }
