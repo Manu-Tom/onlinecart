@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/onlinecart/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/onlinecart/static/js/main.3543238b.chunk.js",
+    "main.js.map": "/onlinecart/static/js/main.3543238b.chunk.js.map",
+    "runtime-main.js": "/onlinecart/static/js/runtime-main.8d9cb26d.js",
+    "runtime-main.js.map": "/onlinecart/static/js/runtime-main.8d9cb26d.js.map",
+    "static/css/2.4be38407.chunk.css": "/onlinecart/static/css/2.4be38407.chunk.css",
+    "static/js/2.73e437be.chunk.js": "/onlinecart/static/js/2.73e437be.chunk.js",
+    "static/js/2.73e437be.chunk.js.map": "/onlinecart/static/js/2.73e437be.chunk.js.map",
+    "static/js/3.261b48bf.chunk.js": "/onlinecart/static/js/3.261b48bf.chunk.js",
+    "static/js/3.261b48bf.chunk.js.map": "/onlinecart/static/js/3.261b48bf.chunk.js.map",
+    "index.html": "/onlinecart/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/onlinecart/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/onlinecart/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.73e437be.chunk.js.LICENSE.txt": "/onlinecart/static/js/2.73e437be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d9cb26d.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.73e437be.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3543238b.chunk.js"
+  ]
+}
